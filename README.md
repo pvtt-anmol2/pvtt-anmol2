@@ -1,72 +1,344 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1f4037&text=ANMOL%20%7C%20OPERATOR&fontSize=45&fontColor=00ff99&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:550000&text=ANMOL.exe&fontSize=75&fontColor=FF0000&animation=fadeIn"/>
 
-<h1 align="center">⚔️ WELCOME, OPERATOR ⚔️</h1>
+<h1 align="center">☠️ PROJECT NIGHTFALL ☠️</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=MISSION:+BUILD+THE+FUTURE;FRONTEND+COMBATANT;AI+%26+CODE+SPECIALIST;HACKATHON+WARRIOR"/>
-</p>
-
----
-
-## 🪖 OPERATOR PROFILE
-
-```
-CODENAME  : ANMOL
-ROLE      : FRONTEND DEVELOPER
-MISSION   : BUILDING DIGITAL EXPERIENCES
-STATUS    : ONLINE 🟢
-LOCATION  : UNKNOWN
-```
-
----
-
-## 🎯 CURRENT MISSIONS
-
-🎮 Mastering Frontend Development
-🤖 Exploring Artificial Intelligence
-⚡ Building Real World Projects
-🏆 Competing in Hackathons
-
----
-
-## 🔫 WEAPON LOADOUT
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react"/>
-</p>
-
----
-
-## 🛰️ BATTLE LOG
-
-```
-[✔] HTML / CSS        COMPLETED
-[✔] Python Basics     COMPLETED
-[⚡] JavaScript        TRAINING
-[⚡] React             TRAINING
-[🔒] AI Systems        CLASSIFIED
-```
-
----
-
-## 🏴‍☠️ GITHUB BASE
+<h3 align="center">CLASSIFIED DIGITAL OPERATOR PROFILE</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pvtt-anmol2&theme=darkhub&no-frame=true&margin-w=10"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=850&lines=Initializing+System...;Scanning+Identity...;Loading+Operator+Profile...;Access+Granted+%E2%98%A0%EF%B8%8F;Welcome+to+Nightfall+Protocol"/>
 </p>
 
 ---
 
-## ⚡ FINAL TRANSMISSION
+# 🕶️ OPERATOR DATABASE
+
+```text
+╔══════════════════════════════════════╗
+║          CLASSIFIED INFORMATION      ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  CODENAME     : ANMOL.exe            ║
+║  ROLE         : SOFTWARE OPERATOR    ║
+║  DIVISION     : DEVELOPMENT UNIT     ║
+║  STATUS       : ACTIVE               ║
+║  CLEARANCE    : LEVEL 07             ║
+║  EXPERIENCE   : GROWING              ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+---
+
+# 🌑 NIGHTFALL CORE SYSTEM
+
+```text
+[ SYSTEM INITIALIZATION ]
+
+████████████████████ 100%
+
+> Loading creativity module ........ OK
+> Loading programming skills ....... OK
+> Loading AI protocols ............. OK
+> Loading imagination engine ....... OK
+
+SYSTEM STATUS:
+
+      ONLINE ☠️
 
 ```
-"The mission is simple.
 
-Learn.
-Build.
-Improve.
+---
 
-No shortcuts. Only progress."
+# 🧬 ABOUT THE OPERATOR
+
+> "Creating things that don't exist yet."
+
+```text
+MISSION:
+
+• Learn powerful technologies
+• Build unique digital experiences
+• Explore Artificial Intelligence
+• Turn ideas into reality
+
+OBJECTIVE:
+
+Become a developer who creates
+the future instead of following it.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f4037,100:000000&section=footer"/>
+---
+
+# ⚡ DIGITAL LOADOUT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github,vscode,linux&perline=5"/>
+</p>
+
+---
+
+# 🛰️ ACTIVE MISSIONS
+
+```text
+╔════════════════════════════════╗
+
+MISSION 001
+
+TARGET:
+Frontend Mastery
+
+STATUS:
+████████░░ 80%
+
+
+MISSION 002
+
+TARGET:
+Artificial Intelligence
+
+STATUS:
+██████░░░░ 60%
+
+
+MISSION 003
+
+TARGET:
+Open Source Projects
+
+STATUS:
+████░░░░░░ 40%
+
+╚════════════════════════════════╝
+```
+
+---
+
+# 📡 SYSTEM MONITOR
+
+```text
+CPU:
+████████████ 100%
+
+CREATIVITY:
+████████████ 100%
+
+PROBLEM SOLVING:
+█████████░░░ 75%
+
+LEARNING SPEED:
+██████████░░ 85%
+
+```
+
+---
+
+# 🕸️ PROJECT ARCHIVE
+
+```text
+[ PROJECT DATABASE ]
+
+01.
+NAME:
+Web Experiments
+
+STATUS:
+ACTIVE
+
+
+02.
+NAME:
+AI Research
+
+STATUS:
+CLASSIFIED
+
+
+03.
+NAME:
+Future Applications
+
+STATUS:
+IN DEVELOPMENT
+
+
+ACCESS:
+AUTHORIZED ONLY
+```
+
+---
+
+# 👁️ SURVEILLANCE LOG
+
+```text
+23:00:01
+> New idea detected
+
+23:00:08
+> Converting idea into prototype
+
+23:01:30
+> Debugging started
+
+23:10:45
+> System improvement completed
+
+RESULT:
+
+PROJECT CREATED ✔
+```
+
+---
+
+
+# 🧪 EXPERIMENT LOG
+
+```text
+EXPERIMENT #001
+
+Purpose:
+Build something new
+
+Result:
+SUCCESS ✔
+
+
+EXPERIMENT #002
+
+Purpose:
+Learn advanced technology
+
+Result:
+RUNNING...
+```
+
+---
+
+# 💀 FINAL TRANSMISSION
+
+```bash
+$ connect ANMOL.exe
+
+> Identity verified
+
+> Skills loaded
+
+> Future unlocked
+
+
+WARNING:
+
+This operator never stops learning.
+
+
+SYSTEM MESSAGE:
+
+KEEP BUILDING.
+KEEP IMPROVING.
+KEEP CREATING.
+
+
+ANMOL.exe STATUS:
+RUNNING ☠️
+```
+# 🐉 KALI LINUX TERMINAL
+
+```bash
+┌──(anmol㉿kali)-[~]
+└─$ whoami
+
+anmol
+
+
+┌──(anmol㉿kali)-[~]
+└─$ cat mission.txt
+
+> Learn Cyber Security
+> Master Linux
+> Build Secure Applications
+> Explore Ethical Hacking
+
+
+┌──(anmol㉿kali)-[~]
+└─$ sudo systemctl status creativity
+
+● creativity.service
+   Active: running
+
+
+┌──(anmol㉿kali)-[~]
+└─$ ls skills/
+
+Linux
+Python
+Web Development
+Git
+Cyber Security Basics
+AI Research
+
+
+┌──(anmol㉿kali)-[~]
+└─$ echo "Never stop learning"
+
+Never stop learning
+```
+
+---
+
+# 🐧 LINUX TOOLKIT
+
+```text
+[✓] Kali Linux
+[✓] Terminal
+[✓] Bash Scripting
+[✓] Python Automation
+[✓] Git & GitHub
+[✓] Networking Fundamentals
+[✓] Web Security Basics
+```
+
+---
+
+# 🔐 SECURITY LAB
+
+```text
+LAB STATUS:
+
+Network Knowledge      ████████░░ 80%
+
+Linux Skills           ███████░░░ 70%
+
+Python Automation      ██████░░░░ 60%
+
+Security Research      ████░░░░░░ 40%
+```
+
+---
+
+# 💻 COMMAND HISTORY
+
+```bash
+$ uname -a
+Linux kali 6.x x86_64
+
+$ pwd
+/home/anmol
+
+$ ls
+projects  scripts  experiments
+
+$ python --version
+Python 3.x
+
+$ git status
+Building the future...
+```
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pvtt-anmol2&label=OPERATORS+WATCHING&color=red&style=for-the-badge"/>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:550000,100:000000&section=footer"/>
