@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:550000&text=ANMOL.exe&fontSize=75&fontColor=FF0000&animation=fadeIn"/>
 
-<h1 align="center">☠️ PROJECT NIGHTFALL ☠️</h1>
+<h1 align="center"> PROJECT NIGHTFALL </h1>
 
 <h3 align="center">CLASSIFIED DIGITAL OPERATOR PROFILE</h3>
 
@@ -331,6 +331,59 @@ Python 3.x
 
 $ git status
 Building the future...
+```
+# 🛰️ PROJECT ARCHIVE
+
+<p align="center">
+
+<a href="https://github.com/pvtt-anmol2/Anmox">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtt-anmol2&repo=Anmox&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/pvtt-anmol2/hand-gesture-control">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtt-anmol2&repo=hand-gesture-control&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+```text
+╔══════════════════════════════════╗
+        PROJECT DATABASE
+
+STATUS: ONLINE
+
+[01] Anmox
+     TYPE: Web Application
+     LANGUAGE: HTML
+     STATUS: DEPLOYED ✔
+
+
+[02] Hand Gesture Control
+     TYPE: AI / Computer Vision
+     STATUS: ACTIVE ⚡
+
+
+ACCESS:
+AUTHORIZED OPERATOR ONLY
+
+╚══════════════════════════════════╝
+```
+
+---
+
+## ⚡ ACTIVE BUILDS
+
+```text
+> Anmox
+  └─ Creating digital experiences
+
+> Hand Gesture Control
+  └─ Exploring human-computer interaction
+
+SYSTEM MESSAGE:
+More projects incoming...
 ```
 
 ---
