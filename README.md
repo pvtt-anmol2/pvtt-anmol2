@@ -332,21 +332,6 @@ Python 3.x
 $ git status
 Building the future...
 ```
-# 🛰️ PROJECT ARCHIVE
-
-<p align="center">
-
-<a href="https://github.com/pvtt-anmol2/Anmox">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtt-anmol2&repo=Anmox&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/pvtt-anmol2/hand-gesture-control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtt-anmol2&repo=hand-gesture-control&theme=tokyonight"/>
-</a>
-
-</p>
-
----
 
 ```text
 ╔══════════════════════════════════╗
