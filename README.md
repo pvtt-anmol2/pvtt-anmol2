@@ -1,49 +1,72 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Anmol&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1f4037&text=ANMOL%20%7C%20OPERATOR&fontSize=45&fontColor=00ff99&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋 I'm Anmol</h1>
+<h1 align="center">⚔️ WELCOME, OPERATOR ⚔️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Hackathon+Enthusiast;Learning+AI+%26+Web+Development;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=MISSION:+BUILD+THE+FUTURE;FRONTEND+COMBATANT;AI+%26+CODE+SPECIALIST;HACKATHON+WARRIOR"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🪖 OPERATOR PROFILE
 
-* 🌱 Learning **Frontend Development & AI**
-* 💻 Building cool web projects
-* 🏆 Hackathon Enthusiast
-* 🎯 Always improving my coding skills
+```
+CODENAME  : ANMOL
+ROLE      : FRONTEND DEVELOPER
+MISSION   : BUILDING DIGITAL EXPERIENCES
+STATUS    : ONLINE 🟢
+LOCATION  : UNKNOWN
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 CURRENT MISSIONS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+🎮 Mastering Frontend Development
+🤖 Exploring Artificial Intelligence
+⚡ Building Real World Projects
+🏆 Competing in Hackathons
+
+---
+
+## 🔫 WEAPON LOADOUT
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛰️ BATTLE LOG
+
+```
+[✔] HTML / CSS        COMPLETED
+[✔] Python Basics     COMPLETED
+[⚡] JavaScript        TRAINING
+[⚡] React             TRAINING
+[🔒] AI Systems        CLASSIFIED
+```
+
+---
+
+## 🏴‍☠️ GITHUB BASE
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pvtt-anmol2&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvtt-anmol2&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=pvtt-anmol2&theme=darkhub&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## ⚡ FINAL TRANSMISSION
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pvtt-anmol2&theme=tokyonight" />
-</p>
+```
+"The mission is simple.
 
----
+Learn.
+Build.
+Improve.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pvtt-anmol2&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+No shortcuts. Only progress."
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f4037,100:000000&section=footer"/>
