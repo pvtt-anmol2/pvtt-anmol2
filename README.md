@@ -6,6 +6,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=850&lines=Initializing+System...;Scanning+Identity...;Loading+Operator+Profile...;Access+Granted+%E2%98%A0%EF%B8%8F;Welcome+to+Nightfall+Protocol"/>
+      <div align="center">
 </p>
 
 ---
