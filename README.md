@@ -22,7 +22,7 @@
 ║  ROLE         : SOFTWARE OPERATOR    ║
 ║  DIVISION     : DEVELOPMENT UNIT     ║
 ║  STATUS       : ACTIVE               ║
-║  CLEARANCE    : LEVEL 07             ║
+║  CLEARANCE    : LEVEL 67             ║
 ║  EXPERIENCE   : GROWING              ║
 ║                                      ║
 ╚══════════════════════════════════════╝
